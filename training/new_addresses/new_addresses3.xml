@@ -1,0 +1,7 @@
+<AddressCollection>
+  <AddressString><AddressNumber>90</AddressNumber> <StreetName>SW</StreetName> <StreetName>AGUERO</StreetName> <StreetNamePostType>ST</StreetNamePostType> <PlaceName>PORT</PlaceName> <PlaceName>ST</PlaceName> <PlaceName>LUCIE</PlaceName> <StateName>FL</StateName> <ZipCode>40293</ZipCode></AddressString>
+  <AddressString><AddressNumber>18</AddressNumber> <StreetName>SKY</StreetName> <StreetNamePostType>DR</StreetNamePostType> <PlaceName>PORT</PlaceName> <PlaceName>ST</PlaceName> <PlaceName>LUCIE</PlaceName> <StateName>CA</StateName> <ZipCode>92656</ZipCode></AddressString>
+  <AddressString><AddressNumber>3832</AddressNumber> <StreetName>REGENCY</StreetName> <StreetNamePostType>PWWY</StreetNamePostType> <PlaceName>SUITLAND</PlaceName> <StateName>MD</StateName> <ZipCode>30202</ZipCode></AddressString>
+  <AddressString><AddressNumber>3832</AddressNumber> <StreetName>REGENCY</StreetName> <StreetNamePostType>PWKY</StreetNamePostType> <PlaceName>ALISO</PlaceName> <PlaceName>VIEJO</PlaceName> <StateName>CA</StateName> <ZipCode>92656</ZipCode></AddressString>
+  <AddressString><AddressNumber>330</AddressNumber> <StreetName>PROVIDENCE</StreetName> <StreetNamePostType>ST</StreetNamePostType> <PlaceName>PORT</PlaceName> <PlaceName>ST</PlaceName> <PlaceName>LUCIE</PlaceName> <StateName>GA</StateName> <ZipCode>30114</ZipCode></AddressString>
+</AddressCollection>
