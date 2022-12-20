@@ -1,0 +1,6 @@
+<AddressCollection>
+  <AddressString><AddressNumber>8830</AddressNumber> <StreetName>DOUBLE</StreetName> <StreetName>OAK</StreetName> <PlaceName>SAN</PlaceName> <PlaceName>ANTONIO,</PlaceName> <StateName>TX</StateName> <ZipCode>7824-4593</ZipCode></AddressString>
+  <AddressString><AddressNumber>8830</AddressNumber> <StreetName>DOUBLE</StreetName> <StreetName>OAK</StreetName> <PlaceName>SAN</PlaceName> <PlaceName>ANTONIO</PlaceName> <StateName>TX</StateName> <ZipCode>7824-4593</ZipCode></AddressString>
+  <AddressString><AddressNumber>19016</AddressNumber> <StreetName>OCALA</StreetName> <StreetNamePostType>RD</StreetNamePostType> <StreetNamePostDirectional>S</StreetNamePostDirectional> <PlaceName>FORT</PlaceName> <PlaceName>MYERS</PlaceName> <StateName>FL</StateName> <ZipCode>33967-3716</ZipCode></AddressString>
+  <AddressString><AddressNumber>19016</AddressNumber> <StreetName>OCALA</StreetName> <StreetNamePostType>RD</StreetNamePostType> <StreetNamePostDirectional>S</StreetNamePostDirectional> <PlaceName>FORT</PlaceName> <PlaceName>MYERS,</PlaceName> <StateName>FL</StateName> <ZipCode>33967-3716</ZipCode></AddressString>
+</AddressCollection>
